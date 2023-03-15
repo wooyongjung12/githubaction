@@ -1,0 +1,7 @@
+E:\AzureWebApp\bin\Release\net6.0\publish\AzureWebApp.exe
+E:\AzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+E:\AzureWebApp\bin\Release\net6.0\publish\appsettings.json
+E:\AzureWebApp\bin\Release\net6.0\publish\AzureWebApp.dll
+E:\AzureWebApp\bin\Release\net6.0\publish\AzureWebApp.deps.json
+E:\AzureWebApp\bin\Release\net6.0\publish\AzureWebApp.runtimeconfig.json
+E:\AzureWebApp\bin\Release\net6.0\publish\AzureWebApp.pdb
